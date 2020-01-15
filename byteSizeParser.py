@@ -1,5 +1,5 @@
 import math
-import time
+
 class ByteSizeParser
     def __init__(self)
         AddUnit("GiB", IEC_MULTIPLIER * IEC_MULTIPLIER * IEC_MULTIPLIER)
